@@ -26,10 +26,6 @@
 
 
     }
-
-    //INSERT INTO tablename (columns) VALUES (values)
-    //INSERT INTO notes ('title', 'content', 'important') VALUES ('$title', '$content', '$important')
-
 ?>
 
 <!DOCTYPE html>
