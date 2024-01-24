@@ -21,7 +21,7 @@
 
         # issues sql statement to the database
        if (mysqli_query($conn, $sql)) {
-           echo 'Success';
+           header("Location: index.php");
        }
 
 
