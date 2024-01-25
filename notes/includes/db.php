@@ -2,7 +2,7 @@
     # connect the database
     $serverName = "localhost";
     $userName = "sqluser";
-    $password = "Scipio12?!";
+    $password = "sqlpassword";
     $dbName = "notes";
 
     # create connection strings
