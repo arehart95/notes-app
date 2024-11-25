@@ -1,2 +1,2 @@
 # notes-app
-Coursera project
+
